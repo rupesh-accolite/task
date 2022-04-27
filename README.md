@@ -1,6 +1,6 @@
 # Task given: Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 
-Approach: 
+## Approach: 
 Read the size of list, numbers in list and target value to search from console.
 Call the "search()" function with list and target as arguments.
 The approach used in this function is binary search with runtime complexity O(log n).
